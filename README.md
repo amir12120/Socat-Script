@@ -12,7 +12,7 @@
 ### You can easily use this script by copying the following command:
 # Install
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/Mehdi682007/Socat-Script/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/amir12120/Socat-Script/main/install.sh)
 
 ```
 ## To install, select option 1 and follow the steps
